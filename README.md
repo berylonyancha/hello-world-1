@@ -1,7 +1,7 @@
 # Hello-World
-
+![Logo](./assets/motherboard.jpeg )
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Beryl Onyancha](https://github.com/berylonyancha)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
